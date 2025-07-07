@@ -8,7 +8,7 @@ This repository is a minimal adaptation of [SimSwap](https://github.com/neuralch
 
 ### First step
 
-Open swap_video_colab.ipynb on Google Colab.
+Open [swap_video_colab.ipynb][swap_video_colab.ipynb] on Google Colab.
 
 Run until the last cell to perform the swap on a video or on an image.
 
@@ -21,3 +21,7 @@ Change the path in the last cells.
 ### Last Step
 
 Run it and find the results in output !
+
+## IMPORTANT
+
+If you have any error with `np.float32` or `float32`, just replace as mentionned in the error message. No global fix was find.
