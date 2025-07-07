@@ -8,6 +8,8 @@ This repository is a minimal adaptation of [SimSwap](https://github.com/neuralch
 
 Open swap_video_colab.ipynb on Google Colab.
 
+Run until the last cell to perform the swap on a video or on an image.
+
 Create a folder and put the source images inside (image and video to swap).
 
 Change the path in the last cells.
