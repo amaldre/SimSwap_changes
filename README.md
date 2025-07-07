@@ -6,9 +6,7 @@ This repository is a minimal adaptation of [SimSwap](https://github.com/neuralch
 
 ## How to run it ?
 
-Open : 
-
-[![Colab](https://img.shields.io/badge/Run%20on-Colab-yellow?logo=googlecolab)](swap_video_colab.ipynb)
+Open swap_video_colab.ipynb on Google Colab.
 
 Create a folder and put the source images inside (image and video to swap).
 
